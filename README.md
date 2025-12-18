@@ -1,7 +1,4 @@
 
-You said:
-Debian 9 lamp  full tutorial
-ChatGPT said:
 Debian 9 Lamp Stack Full Tutorial
 
 Debian 9 (Stretch) – Full LAMP Stack Installation Tutorial
